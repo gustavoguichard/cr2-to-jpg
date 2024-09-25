@@ -1,0 +1,22 @@
+{
+  "name": "raw-to-jpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun run index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Guichard",
+  "license": "ISC",
+  "dependencies": {
+    "composable-functions": "^4.4.0",
+    "cr2-raw": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
