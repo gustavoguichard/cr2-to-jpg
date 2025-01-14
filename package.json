@@ -10,7 +10,6 @@
   "author": "Gustavo Guichard",
   "license": "ISC",
   "dependencies": {
-    "composable-functions": "^4.4.0",
     "cr2-raw": "^1.1.0"
   },
   "devDependencies": {
